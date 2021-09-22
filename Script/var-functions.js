@@ -1,0 +1,32 @@
+var Rejected = "Portfolio"
+var Unloved = "Resume"
+var Single = "About"
+var Loveher = "Contact"
+  function restart_life(){
+    document.getElementById("Change").className = y
+	document.getElementById("maindesign").innerHTML = x
+   }
+  function accept(){
+  	x = Portf; 
+  	y = Portb;
+  }
+  function letgo(){
+  	x = Resumef; 
+  	y = Contactb;
+  }
+  function suicide(){
+  	x = Aboutf; 
+  	y = Aboutb;
+  }
+  function dont(){
+  	x = Contactf; 
+  	y = Contactb;
+  }
+var Portb = "body"
+var Aboutb = "aboutbody"
+var Contactb = "contactbody"
+var header = '<div class="header activated" style="background-color: #1e1e1e;"><image class="logo"></image><br><a><p id="port" class="p">Contact</p></a><a><p id="port" class="p1">About</p></a><a><p id="port" class="p2">Resume</p></a><a><p id="port" class="p3">Portfolio</p></a><p id="Name" class="name">Raaaaaiin</p></div>'
+var Contactf = '<div class="spacing"></div><br><div id="centerbox"><div id="contact" class="white" style="padding-left:25px;padding-right:25px;padding-top:25px;"><p class="fontblack" style="font-size:25px;">Contact</p><p class="fontblack" style="font-size:17px">You would like to work with me?<br>Call now! I look forward to the conversation.<br><div id="kontak"><p class="fontblack" style="font-size:17px">+63 (0) 921-2886-190</p></div><div id="kontak"><p class="fontblack" style="font-size:17px">Marcraineer0089@g.c</p></div><p class="fontblack" style="font-size:17px;margin-left:8%;padding:10px;margin-bottom:0.5%;margin-top:30%"><br>Purok 24 Zone Blk 11 Lot 7 <br>Botong Francisco Ave Brgy <br>Mahabang Parang Angono Rizal</p><br><br><br></p><div id="SocialMed"><center><div id="contact" style="padding: 0.5px;background: color white;width: 80%;margin-left:0;margin-right:3%;margin-bottom:5%">													</div><a href="http://www.fb.com/raaaaaiin"><img class="fb" src="Images/fb.png"></a><a href="http://www.twitter.com/raaaaaiin"><img class="tw" src="Images/twitter.png"></a><a href="http://www.youtube.com/Naerlex"><img class="yt" src="Images/yt.png"></a></center></div></div></div></div>'
+var Resumef = '<div class="spacing"></div><br><div id="centerbox"><div id="contact" class="white"><center><p class="tagfont" style="font-size:50px; margin:0; color: #2a2525;">Raaaaaiin</p></center><div class="tags"><p class="tagfont" style="margin-left:25%">Profile</p></div><p class="fontblack" style="margin-left:10%; font-size:12px">I am a man who likes to spend time alone,i do not care about others, laugh easily, embrace  the reality that all life end. I love knowledges, science, electrical stuff and Mathematic Equations. I have an inner peace and relish life.</p><div class="tags" style="width:60%"><p class="tagfont" style="margin-left:25%">Achievements</p></div><p class="fontblack" style="margin-left:10%; font-size:15px;"><b style="color: #2a2525; margin-bottom:10px;">2017 </b>Certificate of Recognition</p><p class="fontblack" style="margin-left:10%; font-size:12px">Recently i was given an award for being "Best Student in Computer Programming"</p><p class="fontblack" style="margin-left:10%; font-size:15px;"><b style="color: #2a2525; margin-bottom:10px;">2017 </b>Certificate of Recognition</p><p class="fontblack" style="margin-left:10%; font-size:12px">Recently i was given an award for being "Best Student in Computer System Servicing"</p><div class="tags" style="width:45%"><p class="tagfont" style="margin-left:25%">Education</p></div><p class="fontblack" style="margin-left:10%; font-size:15px;"><b style="color: #2a2525; margin-bottom:10px;">2017 </b>Raises Academy Angono Rizal</p><p class="fontblack" style="margin-left:10%; font-size:12px">Since Grade 1 Until Grade 7</p><p class="fontblack" style="margin-left:10%; font-size:15px;"><b style="color: #2a2525; margin-bottom:10px;">2006 </b>Sumulong Memorial High School</p><p class="fontblack" style="margin-left:10%; font-size:12px">Grade 8 Until Now</p></div></div>'
+var Portf = '<div class="spacing"></div><div id="body"><div class="bodyspacing"></div><center><img class="circle"><center><center><a href="link/about.html"><image class="About"></a><a href="link/about.html"><image class="Resume"></a><a href="link/about.html"><image class="Contact"></a></center><div class="bodyspacing"></div></div>'
+var Aboutf = '<div class="spacing"></div><div class="spacing" style="height:50px;"></div><br><div id="centerbox"><center><div class="white" style="background-color: transparent; padding-left:30%;padding-right:5%;"><font class="fonthead"><h2>"What are you expecting to know about me?"</font></h2><p></p><font align="justify" class="font" style="padding-left: 10%;"><p>You know guys Even my self didnt know who am i really are so how can i describe my self or how can i tell you anything about me? to be honest what do you mean by "My self?" Does it is the composite body? that was composed that was consist of six elements? Does the word "Who am i" consist the five types of perception known through the sense? Did you know that the five perception, the five parts of the body, are not the really "I" </p><p>	I honestly don`t think there`s a good answer to this question, It also depends on whether or not you are seeing yourself through your own lens or relying on other people`s perceptions of you. And Im trying to depend on other people because after all they do not care on what i think on my self nor what i know about my self, instead they only care about what they see and what they know  about you. They can judge you the way they know you. Other judges you because they know you. But they cannot judge you if they do not know you so even though you know your self very well no one can judge you or describe you because you are the only one who knows your self and knowing your self is nothing.</p><p>its something like this for example you know your self very well and others dont really know you but in one day everything and every of your memory got lost because of a accident do you think you can still describe your self afterall? do you think you can still answer the question "Who am I" but other people who might know you well can still answer "WHO YOU REALLY ARE" so Im asking for your help </p><p><font class="fonthead"><center>"Interact with me and describe who I really Am"</center></font></p></font></p></center></div>'
